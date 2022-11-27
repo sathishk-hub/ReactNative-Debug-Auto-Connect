@@ -10,8 +10,8 @@ Step 2: Copy two file and added to route folder of your ReactNative project.
 Step 3: connect mobile via usb and open the app
 Step 3: 
 ```In terminal
-            To connect run : **bash RNWirelessConnect.sh -h *your-ip-address***
-            To Disconnect  : **bash RNWirelessStop.sh**
+            To connect run : bash RNWirelessConnect.sh -h *your-ip-address*
+            To Disconnect  : bash RNWirelessStop.sh
             
 
 If you are using yarn in your project use below one in package file and use yarn to run command :
