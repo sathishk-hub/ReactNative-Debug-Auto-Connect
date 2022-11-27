@@ -8,8 +8,8 @@ Steps to add the file to React native Project.</br>
 Step 1: Download and extract the file.</br>
 Step 2: Copy two file and added to route folder of your ReactNative project.</br>
 Step 3: connect mobile via usb and open the app</br>
-Step 4: 
-```In terminal
+Step 4: If you are using terminal
+```
             To connect run : bash RNWirelessConnect.sh -h *your-ip-address*
             To Disconnect  : bash RNWirelessStop.sh
             
