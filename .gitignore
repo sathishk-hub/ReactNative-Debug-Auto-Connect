@@ -1,1 +1,8 @@
+# vs code settings
+.vscode
+# OSX
+#
 .DS_Store
+
+#Visual Studio Code
+.vscode/*
