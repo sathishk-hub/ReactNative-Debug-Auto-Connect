@@ -22,7 +22,7 @@ If you are using yarn in your project use below one in package file and use yarn
 Step 4 : disconnect usb , App will work seemlessly in wireless mode 
 
 
-Note : The above file use by default port as 8081
+Note : The above file use default port as 8081
 
              
 
