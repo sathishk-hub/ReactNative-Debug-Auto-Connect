@@ -3,12 +3,12 @@
 open the link and download the file
 https://github.com/sathishk-hub/ReactNative-Debug-Auto-Connect
 
-Steps to add the file to React native Project.
+Steps to add the file to React native Project.</br>
 
-Step 1: Download and extract the file.
-Step 2: Copy two file and added to route folder of your ReactNative project.
-Step 3: connect mobile via usb and open the app
-Step 3: 
+Step 1: Download and extract the file.</br>
+Step 2: Copy two file and added to route folder of your ReactNative project.</br>
+Step 3: connect mobile via usb and open the app</br>
+Step 4: 
 ```In terminal
             To connect run : bash RNWirelessConnect.sh -h *your-ip-address*
             To Disconnect  : bash RNWirelessStop.sh
