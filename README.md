@@ -18,6 +18,7 @@ If you are using yarn in your project use below one in package file and use yarn
 
              "wc":"cd your path && bash RNWirelessConnect.sh -h *your-ip-address*"
              "wdc":"cd your path && bash RNWirelessStop.sh"
+```
 
 Step 4 : disconnect usb , App will work seemlessly in wireless mode 
 
