@@ -26,6 +26,14 @@ Step 4 : disconnect usb , App will work seemlessly in wireless mode
 
 Note : The above file use default port as 8081
 
+```
+Very Important point to be followed. open two sh file in code editor find the line which contain 
+
+                        adb shell input keyevent 19 19 	
+
+replace number of 19 as per your app Settings option position in menu 
+```
+
              
 
 
