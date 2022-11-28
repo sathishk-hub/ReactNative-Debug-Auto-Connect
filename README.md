@@ -32,8 +32,16 @@ open two sh file in code editor find the line which contain
 
                         adb shell input keyevent 19 19 	
 
-replace number of 19 as per your app Settings option position in menu 
+replace number of 19 as per your app Settings option position in menu  from last item.
+
+If Settings position 3 from last then 
+
+            adb shell input keyevent 19 19 19	
+            
+            
+
 ```
+# Please ensure above point is satisfied as per your app in both files.
 
              
 
